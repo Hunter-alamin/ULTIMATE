@@ -24,6 +24,13 @@ cd ULTIMATE
 python2 Ultimate.py
 
 ````
+AFTER INSTALLING THE TOOL IN ORDER TO RUN IT AGAIN TYPE THE COMMANDS FROM BELOW
+````
+cd ULTIMATE
+
+python2 Ultimate.py
+
+````
 
 # SCREENSHOTS👇👇
 ![](https://l.top4top.io/p_2062xme540.jpg)

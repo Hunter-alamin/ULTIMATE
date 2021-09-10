@@ -3,9 +3,9 @@ The all new cloning tool
 
 # COMMANDS 👇
 ````
-pkg install python
+pkg install python wget
 
-pkg install python2
+pkg install python2 curl
 
 pkg install git
 

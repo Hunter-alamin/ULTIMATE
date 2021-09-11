@@ -33,7 +33,7 @@ python2 Ultimate.py
 ````
 
 # SCREENSHOTS👇👇
-![](https://l.top4top.io/p_2062xme540.jpg)
+![](https://c.top4top.io/p_2080dtsdq0.jpg)
 
 # SINGLE COMMANDS 👇👇
 JUST PASTE THE COMMANDS IN TERMUX THAT IS SHOWN BELOW 
